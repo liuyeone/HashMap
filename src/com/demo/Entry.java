@@ -1,3 +1,5 @@
+package com.demo;
+
 public class Entry<K, V> {
 
     private K key;
